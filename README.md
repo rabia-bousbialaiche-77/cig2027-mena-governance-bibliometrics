@@ -1,5 +1,7 @@
 # Dossier de réplication – CIG 2027
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24290469.svg)](https://doi.org/10.5281/zenodo.24290469)
+
 **Gouvernance d'entreprise et durabilité dans la région MENA : cartographie bibliométrique, dynamiques thématiques et agenda de recherche (2000–2026)**
 
 Ce dossier permet de reproduire toutes les données, tableaux et figures de la communication.
@@ -66,6 +68,6 @@ Comptage des auteurs par nom + initiale (homonymies possibles). Articles en arab
 
 ## Citer
 
-Bousbia Laiche, R. (2026). *Dossier de réplication – Gouvernance d'entreprise et durabilité dans la région MENA : cartographie bibliométrique (CIG 2027)* [Jeu de données et code]. Zenodo. Le DOI figure sur la page Zenodo du dépôt.
+Bousbia Laiche, R. (2026). *Dossier de réplication – Gouvernance d'entreprise et durabilité dans la région MENA : cartographie bibliométrique (CIG 2027)* [Jeu de données et code]. Zenodo. https://doi.org/10.5281/zenodo.24290469
 
 Auteur : Rabia Bousbia Laiche, Université d'El Oued (Echahid Hamma Lakhdar), Algérie. ORCID [0000-0002-0150-4310](https://orcid.org/0000-0002-0150-4310).
