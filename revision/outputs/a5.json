@@ -1,0 +1,103 @@
+[
+ {
+  "name": "cohorte 2020-2026, 400 plus cités",
+  "nodes": 368,
+  "edges": 5802,
+  "modularity": 0.359,
+  "clusters": [
+   {
+    "cluster": 1,
+    "n": 94,
+    "mean_year": 2022.7,
+    "concepts": "firm value; ESG; stakeholders; sustainability reporting"
+   },
+   {
+    "cluster": 2,
+    "n": 57,
+    "mean_year": 2021.7,
+    "concepts": "board independence; institutional investors; board size; CEO duality"
+   },
+   {
+    "cluster": 3,
+    "n": 51,
+    "mean_year": 2022.6,
+    "concepts": "board gender diversity; inclusion / diversity; board of directors; panel data / regression"
+   },
+   {
+    "cluster": 4,
+    "n": 49,
+    "mean_year": 2021.7,
+    "concepts": "Islamic banks; risk taking; Sharia governance; conventional banks"
+   },
+   {
+    "cluster": 5,
+    "n": 49,
+    "mean_year": 2021.8,
+    "concepts": "financial reporting quality; earnings management; audit committee; external audit / audit quality"
+   },
+   {
+    "cluster": 6,
+    "n": 47,
+    "mean_year": 2022.0,
+    "concepts": "CSR disclosure; board independence; board size; ESG"
+   },
+   {
+    "cluster": 7,
+    "n": 11,
+    "mean_year": 2023.1,
+    "concepts": "tax avoidance; digitalisation / fintech; family ownership / family firms; emerging markets"
+   }
+  ],
+  "n_small": 3
+ },
+ {
+  "name": "corpus entier, 400 premiers en citations par an",
+  "nodes": 378,
+  "edges": 7462,
+  "modularity": 0.355,
+  "clusters": [
+   {
+    "cluster": 1,
+    "n": 100,
+    "mean_year": 2019.2,
+    "concepts": "financial reporting quality; CEO duality; earnings management; board size"
+   },
+   {
+    "cluster": 2,
+    "n": 96,
+    "mean_year": 2018.7,
+    "concepts": "CSR disclosure; content analysis; board size; CSR"
+   },
+   {
+    "cluster": 3,
+    "n": 92,
+    "mean_year": 2023.8,
+    "concepts": "ESG; firm value; sustainability; stakeholders"
+   },
+   {
+    "cluster": 4,
+    "n": 40,
+    "mean_year": 2022.0,
+    "concepts": "board gender diversity; inclusion / diversity; firm value; board of directors"
+   },
+   {
+    "cluster": 5,
+    "n": 19,
+    "mean_year": 2020.6,
+    "concepts": "philanthropy / zakat; environmental performance; employees / HRM; ethics"
+   },
+   {
+    "cluster": 6,
+    "n": 17,
+    "mean_year": 2019.6,
+    "concepts": "risk taking; Islamic banks; Sharia governance; conventional banks"
+   }
+  ],
+  "n_small": 2,
+  "share_2020_plus": 70.8
+ },
+ {
+  "name": "baseline share 2020+ in top400 cited",
+  "v": 41.8
+ }
+]

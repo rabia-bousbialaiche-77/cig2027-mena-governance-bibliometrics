@@ -9,8 +9,8 @@ P1 2000–2012,divulgation volontaire / audit externe / qualité,P2 2013–2019,
 P1 2000–2012,taille du conseil / dualité DG/PCA,P2 2013–2019,taille du conseil / indépendance du conseil,3,1.0
 P1 2000–2012,actionnariat étranger / banques conventionnelles,P2 2013–2019,performance financière / structure de propriété,1,0.25
 P1 2000–2012,actionnariat étranger / banques conventionnelles,P2 2013–2019,RSE / parties prenantes,1,0.25
-P1 2000–2012,actionnariat étranger / banques conventionnelles,P2 2013–2019,banques / finance islamiques / banques conventionnelles,2,0.5
-P1 2000–2012,gouvernance charaïque / banques / finance islamiques,P2 2013–2019,banques / finance islamiques / banques conventionnelles,2,1.0
+P1 2000–2012,actionnariat étranger / banques conventionnelles,P2 2013–2019,banques / finance islamique / banques conventionnelles,2,0.5
+P1 2000–2012,gouvernance charaïque / banques / finance islamique,P2 2013–2019,banques / finance islamique / banques conventionnelles,2,1.0
 P1 2000–2012,inclusion / diversité / mixité du conseil,P2 2013–2019,inclusion / diversité / mixité du conseil,2,1.0
 P2 2013–2019,performance financière / structure de propriété,P3 2020–2026,performance financière / financement / dividendes,4,0.6666666666666666
 P2 2013–2019,performance financière / structure de propriété,P3 2020–2026,comité d'audit / audit externe / qualité,1,0.08333333333333333
@@ -22,6 +22,6 @@ P2 2013–2019,comité d'audit / audit externe / qualité,P3 2020–2026,durabil
 P2 2013–2019,comité d'audit / audit externe / qualité,P3 2020–2026,comité d'audit / audit externe / qualité,6,0.8571428571428571
 P2 2013–2019,divulgation volontaire / durabilité,P3 2020–2026,durabilité / ESG,4,0.6666666666666666
 P2 2013–2019,divulgation volontaire / durabilité,P3 2020–2026,RSE / éthique,2,0.4
-P2 2013–2019,banques / finance islamiques / banques conventionnelles,P3 2020–2026,banques conventionnelles / banques / finance islamiques,4,1.0
+P2 2013–2019,banques / finance islamique / banques conventionnelles,P3 2020–2026,banques conventionnelles / banques / finance islamique,4,1.0
 P2 2013–2019,taille du conseil / indépendance du conseil,P3 2020–2026,inclusion / diversité / mixité du conseil,3,1.0
 P2 2013–2019,inclusion / diversité / mixité du conseil,P3 2020–2026,inclusion / diversité / mixité du conseil,2,1.0

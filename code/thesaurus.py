@@ -90,7 +90,7 @@ FR = {
  "executive compensation": "rémunération des dirigeants", "CEO characteristics": "caractéristiques du DG",
  "shareholder rights / investor protection": "protection des investisseurs", "political connections": "connexions politiques",
  "corporate governance code": "codes / réformes de gouvernance", "Sharia governance": "gouvernance charaïque",
- "Islamic banks": "banques / finance islamiques", "conventional banks": "banques conventionnelles",
+ "Islamic banks": "banques / finance islamique", "conventional banks": "banques conventionnelles",
  "voluntary disclosure": "divulgation volontaire", "CSR disclosure": "divulgation RSE",
  "environmental disclosure": "divulgation environnementale", "sustainability reporting": "reporting de durabilité",
  "integrated reporting": "reporting intégré", "IFRS / accounting standards": "IFRS / normes comptables",

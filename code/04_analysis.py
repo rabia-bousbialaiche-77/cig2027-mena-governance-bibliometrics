@@ -8,6 +8,7 @@ import numpy as np, pandas as pd, networkx as nx
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import matplotlib.patheffects as pe
 from thesaurus import CONCEPTS, FR
 from adjustText import adjust_text
 
@@ -68,7 +69,8 @@ g2 = geo[cty].sort_values()
 maghreb = {"Algeria", "Morocco", "Tunisia", "Libya", "Mauritania"}
 gcc = {"Saudi Arabia", "UAE", "Qatar", "Kuwait", "Bahrain", "Oman"}
 cols = [PAL[1] if c in maghreb else PAL[0] if c in gcc else PAL[2] if c in ("Iran", "Turkey") else PAL[6] for c in g2.index]
-ax.barh(g2.index, g2.values, color=cols, height=0.7)
+FRC = {"Algeria": "Algérie", "Morocco": "Maroc", "Tunisia": "Tunisie", "Libya": "Libye", "Egypt": "Égypte", "Mauritania": "Mauritanie", "Saudi Arabia": "Arabie saoudite", "UAE": "Émirats arabes unis", "Qatar": "Qatar", "Kuwait": "Koweït", "Bahrain": "Bahreïn", "Oman": "Oman", "Jordan": "Jordanie", "Lebanon": "Liban", "Iraq": "Irak", "Syria": "Syrie", "Palestine": "Palestine", "Yemen": "Yémen", "Iran": "Iran", "Turkey": "Turquie"}
+ax.barh([FRC.get(c, c) for c in g2.index], g2.values, color=cols, height=0.7)
 for i, v in enumerate(g2.values):
     ax.text(v + 3, i, str(int(v)), va="center", fontsize=7, color=INK2)
 ax.set_xlabel("Nombre d'articles mentionnant le pays (titre/résumé)")
@@ -107,10 +109,19 @@ if G_c.number_of_nodes():
             PAL[6] if n in ("Egypt", "Jordan", "Lebanon", "Iraq", "Syrian Arab Republic", "Palestine, State of", "Yemen") else "#c3c2b7"
             for n in H.nodes()]
     nx.draw_networkx_nodes(H, pos, ax=ax, node_size=sizes, node_color=ncol, edgecolors="white", linewidths=1)
-    lab = {n: n.replace("Iran, Islamic Republic of", "Iran").replace("Palestine, State of", "Palestine")
-              .replace("United Arab Emirates", "UAE").replace("United Kingdom", "UK").replace("United States", "USA")
-              .replace("Syrian Arab Republic", "Syria") for n in H.nodes()}
+    FRA = {"Saudi Arabia": "Arabie saoudite", "United Arab Emirates": "Émirats arabes unis", "Qatar": "Qatar", "Kuwait": "Koweït", "Bahrain": "Bahreïn", "Oman": "Oman",
+           "Egypt": "Égypte", "Jordan": "Jordanie", "Lebanon": "Liban", "Iraq": "Irak", "Syrian Arab Republic": "Syrie", "Palestine, State of": "Palestine", "Yemen": "Yémen",
+           "Algeria": "Algérie", "Morocco": "Maroc", "Tunisia": "Tunisie", "Libya": "Libye", "Mauritania": "Mauritanie", "Iran, Islamic Republic of": "Iran", "Türkiye": "Turquie",
+           "Malaysia": "Malaisie", "United Kingdom": "Royaume-Uni", "United States": "États-Unis", "France": "France", "Australia": "Australie", "China": "Chine", "India": "Inde",
+           "Pakistan": "Pakistan", "Indonesia": "Indonésie", "Italy": "Italie", "Spain": "Espagne", "Germany": "Allemagne", "Canada": "Canada", "Nigeria": "Nigeria",
+           "Bangladesh": "Bangladesh", "Korea, Republic of": "Corée du Sud", "Netherlands": "Pays-Bas", "New Zealand": "Nouvelle-Zélande", "Portugal": "Portugal",
+           "Greece": "Grèce", "Belgium": "Belgique", "Switzerland": "Suisse", "Ireland": "Irlande", "Japan": "Japon", "South Africa": "Afrique du Sud", "Viet Nam": "Viêt Nam",
+           "Ghana": "Ghana", "Cyprus": "Chypre", "Sweden": "Suède", "Poland": "Pologne", "Russian Federation": "Russie", "Brazil": "Brésil", "Kenya": "Kenya"}
+    lab = {n: FRA.get(n, n) for n in H.nodes()}
     nx.draw_networkx_labels(H, pos, labels=lab, font_size=7, ax=ax, font_color=INK)
+    ax.legend(handles=[Patch(color=PAL[0], label="CCG"), Patch(color=PAL[1], label="Maghreb"), Patch(color=PAL[6], label="Machrek / Égypte / Yémen"),
+                       Patch(color=PAL[2], label="Iran, Turquie"), Patch(color="#c3c2b7", label="Pays hors région")],
+              frameon=False, fontsize=7, loc="lower left")
     ax.axis("off")
     fig.savefig(os.path.join(F, "fig7_collaboration_pays.png")); plt.close(fig)
 
@@ -225,8 +236,8 @@ ews = [H[u][v]["eq"] for u, v in H.edges()]
 nx.draw_networkx_edges(H, pos, ax=ax, width=[0.3 + 2.5 * e / max(ews) for e in ews], edge_color="#d6d5cd", alpha=0.9)
 nx.draw_networkx_nodes(H, pos, ax=ax, node_size=[20 + 0.6 * H.nodes[n]["occ"] for n in H.nodes()],
                        node_color=[cmap[n] for n in H.nodes()], edgecolors="white", linewidths=0.8)
-texts = [ax.text(pos[n][0], pos[n][1], FR.get(n, n), fontsize=6.5, color=INK) for n in H.nodes()]
-adjust_text(texts, ax=ax, expand=(1.15, 1.3), arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.4))
+texts = [ax.text(pos[n][0], pos[n][1], FR.get(n, n), fontsize=6.3, color=cmap[n], weight="bold", zorder=5, path_effects=[pe.withStroke(linewidth=2.2, foreground="white")]) for n in H.nodes()]
+adjust_text(texts, ax=ax, expand=(1.05, 1.15), force_text=(0.4, 0.6), arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.4))
 CLN = ["mécanismes, propriété et performance", "RSE, durabilité et divulgation", "conseil d'administration et diversité", "banques islamiques et risque", "autre", "autre"]
 ax.legend(handles=[Patch(color=PAL[i % 8], label=f"Cluster {i+1} : {CLN[i]}") for i in range(len(comms))], frameon=False, fontsize=7, loc="upper left")
 ax.axis("off")
@@ -234,7 +245,7 @@ fig.savefig(os.path.join(F, "fig5_reseau_cooccurrences.png")); plt.close(fig)
 
 # ---------------------------------------------------------------- strategic maps per period (Cobo et al., 2011)
 smaps = {}
-fig, axs = plt.subplots(1, 3, figsize=(10.5, 3.8))
+fig, axs = plt.subplots(1, 3, figsize=(10.5, 5.2))
 for (p, a, b), ax in zip(PERIODS, axs):
     sub = df[df.year.between(a, b)]
     G = cooc_graph(sub, max(3, int(len(sub) * 0.01)))
@@ -254,10 +265,16 @@ for (p, a, b), ax in zip(PERIODS, axs):
         rows.append(dict(period=p, label=" / ".join(FR.get(x, x) for x in [m for m in c if m not in METHODS][:2]), members="; ".join(c), centrality=cen, density=den, occ=occ, size=len(c)))
     sm = pd.DataFrame(rows); smaps[p] = sm
     mc, md = sm.centrality.median(), sm.density.median()
-    ax.axvline(mc, color=MUTED, lw=0.8); ax.axhline(md, color=MUTED, lw=0.8)
-    ax.scatter(sm.centrality, sm.density, s=20 + sm.occ / sm.occ.max() * 600, color=PAL[0], alpha=0.55, edgecolors="white")
-    tx = [ax.text(r.centrality, r.density, r.label.replace(" / ", "\n"), fontsize=5.6, ha="center", va="center", color=INK) for _, r in sm.iterrows()]
-    adjust_text(tx, ax=ax, expand=(1.1, 1.2))
+    ax.axvline(mc, color=MUTED, lw=0.8, ls="--"); ax.axhline(md, color=MUTED, lw=0.8, ls="--")
+    qd = np.where((sm.centrality >= mc) & (sm.density >= md), 0, np.where(sm.centrality >= mc, 1, np.where(sm.density >= md, 2, 3)))
+    QC = [PAL[0], PAL[2], PAL[3], PAL[1]]
+    sm = sm.assign(_q=qd).sort_values("occ", ascending=False).reset_index(drop=True); smaps[p] = sm.drop(columns="_q")
+    ax.scatter(sm.centrality, sm.density, s=60 + sm.occ / sm.occ.max() * 500, color=[QC[q] for q in sm._q], alpha=0.75, edgecolors="white", zorder=3)
+    ax.margins(x=0.12, y=0.12)
+    for i, r in sm.iterrows():
+        ax.text(r.centrality, r.density, str(i + 1), fontsize=6.5, ha="center", va="center", color="white", weight="bold", zorder=4)
+    key = "\n".join(f"{i + 1}. {r.label}" for i, r in sm.iterrows())
+    ax.text(0.0, -0.2, key, transform=ax.transAxes, fontsize=5.8, va="top", ha="left", color=INK)
     ax.set_title(p, fontsize=9, loc="left"); ax.set_xlabel("Centralité (Callon)")
     if ax is axs[0]:
         ax.set_ylabel("Densité (Callon)")
@@ -265,7 +282,8 @@ for (p, a, b), ax in zip(PERIODS, axs):
     for txt, xx, yy, ha, va in (("Moteurs", xr[1], yr_[1], "right", "top"), ("Spécialisés", xr[0], yr_[1], "left", "top"),
                                 ("Émergents/déclinants", xr[0], yr_[0], "left", "bottom"), ("Transversaux", xr[1], yr_[0], "right", "bottom")):
         ax.text(xx, yy, txt, fontsize=6.5, color=MUTED, ha=ha, va=va, style="italic")
-fig.tight_layout(); fig.savefig(os.path.join(F, "fig6_cartes_strategiques.png")); plt.close(fig)
+fig.legend(handles=[Patch(color=c, label=l) for c, l in zip([PAL[0], PAL[2], PAL[3], PAL[1]], ["Moteur", "Transversal", "Spécialisé", "Émergent / déclinant"])], loc="upper center", ncol=4, frameon=False, fontsize=7.5)
+fig.subplots_adjust(top=0.86, bottom=0.42, wspace=0.28); fig.savefig(os.path.join(F, "fig6_cartes_strategiques.png")); plt.close(fig)
 allsm = pd.concat(smaps.values()); allsm.to_csv(os.path.join(T, "strategic_maps.csv"), index=False)
 for p, sm in smaps.items():
     mc, md = sm.centrality.median(), sm.density.median()
@@ -285,14 +303,14 @@ for p1, p2 in zip(ps, ps[1:]):
                 evo.append(dict(src=p1, a=r1.label, dst=p2, b=r2.label, shared=inter, inclusion=inter / min(len(A), len(B))))
 pd.DataFrame(evo).to_csv(os.path.join(T, "thematic_evolution.csv"), index=False)
 # evolution figure
-fig, ax = plt.subplots(figsize=(10, 5.6))
+fig, ax = plt.subplots(figsize=(10, 6.8))
 ypos = {}; XS = [0, 4.2, 8.4]; W = 1.9
 for i, p in enumerate(ps):
     sm = smaps[p].sort_values("occ", ascending=False).reset_index(drop=True)
-    hs = np.maximum(sm.occ / sm.occ.sum(), 0.085); hs = hs / hs.sum(); y = 0
+    hs = np.maximum(sm.occ / sm.occ.sum(), 0.11); hs = hs / hs.sum(); y = 0
     for (_, r), h in zip(sm.iterrows(), hs):
         ax.add_patch(plt.Rectangle((XS[i], y), W, h * 0.94, color=PAL[0], alpha=0.25 + 0.55 * (r.quadrant == "moteur"), lw=0))
-        ax.text(XS[i] + W / 2, y + h * 0.47, r.label.replace(" / ", "\n", 1) + f"\n({r.quadrant})", fontsize=5.6, ha="center", va="center", color=INK)
+        ax.text(XS[i] + W / 2, y + h * 0.47, "\n".join(r.label.split(" / ")) + f"\n({r.quadrant})", fontsize=5.2, ha="center", va="center", color=INK, linespacing=1.05, zorder=5)
         ypos[(p, r.label)] = y + h * 0.47; y += h
 for e in evo:
     if e["inclusion"] >= 0.3:
@@ -368,8 +386,8 @@ nx.draw_networkx_edges(Gbc, pos, ax=ax, width=0.2, edge_color="#e1e0d9", alpha=0
 cit_map = df.set_index("doi").cited_by
 nx.draw_networkx_nodes(Gbc, pos, ax=ax, node_size=[8 + 0.25 * cit_map.get(n, 0) for n in Gbc.nodes()],
                        node_color=[cm[n] for n in Gbc.nodes()], edgecolors="white", linewidths=0.4)
-ax.legend(handles=[Patch(color=PAL[i], label=f"C{i+1} ({r['n_docs']}) : " + "; ".join(FR.get(x, x) for x in r["distinctive_concepts"].split("; ")[:2]))
-                   for i, r in enumerate(rows[:8])], frameon=False, fontsize=7, loc="upper center", bbox_to_anchor=(0.5, 0.02), ncol=2)
+ax.legend(handles=[Patch(color=PAL[i], label=f"C{i+1} ({r['n_docs']}) : " + "; ".join(FR.get(x, x) for x in r["distinctive_concepts"].split("; ")[:4]))
+                   for i, r in enumerate(rows[:8])], frameon=False, fontsize=6.5, loc="upper center", bbox_to_anchor=(0.5, 0.02), ncol=1)
 ax.axis("off")
 fig.savefig(os.path.join(F, "fig9_couplage_bibliographique.png")); plt.close(fig)
 

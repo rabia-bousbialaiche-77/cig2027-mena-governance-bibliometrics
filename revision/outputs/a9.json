@@ -1,0 +1,25 @@
+{
+ "queries": 96,
+ "calls": 576,
+ "min_total": 7906,
+ "records": 576000,
+ "unique": 87025,
+ "unique_in_period": 86913,
+ "already_in_corpus": 287,
+ "already_in_initial_candidates": 31920,
+ "new_with_geo": 20300,
+ "new_retained_same_rules": 36,
+ "new_retained_same_rules_fr": 21,
+ "new_retained_extended_r4": 260,
+ "new_retained_extended_r4_fr": 236,
+ "corpus_fr_found": 287,
+ "extended_breakdown": {
+  "entreprises familiales": 32,
+  "banques/finance islamique": 28,
+  "comité d audit / administrateurs / actionnariat": 9,
+  "divulgation / reporting": 1,
+  "développement durable seul": 158,
+  "same_rules(r4)": 36,
+  "total": 260
+ }
+}

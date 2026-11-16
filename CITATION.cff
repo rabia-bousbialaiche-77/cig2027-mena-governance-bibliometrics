@@ -7,8 +7,8 @@ authors:
     given-names: "Rabia"
     orcid: "https://orcid.org/0000-0002-0150-4310"
     affiliation: "Université d'El Oued (Echahid Hamma Lakhdar), Algérie"
-version: "1.0.0"
-doi: "10.5281/zenodo.24290469"
+version: "1.1.0"
+doi: "10.5281/zenodo.24290468"
 date-released: "2026-11-16"
 license: MIT
 keywords:
