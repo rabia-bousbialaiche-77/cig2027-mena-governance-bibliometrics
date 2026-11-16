@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce dossier, merci de le citer comme suit."
+type: dataset
+title: "Dossier de réplication – Gouvernance d'entreprise et durabilité dans la région MENA : cartographie bibliométrique, dynamiques thématiques et agenda de recherche (2000–2026)"
+authors:
+  - family-names: "Bousbia Laiche"
+    given-names: "Rabia"
+    orcid: "https://orcid.org/0000-0002-0150-4310"
+    affiliation: "Université d'El Oued (Echahid Hamma Lakhdar), Algérie"
+version: "1.0.0"
+date-released: "2026-11-16"
+license: MIT
+keywords:
+  - corporate governance
+  - sustainability
+  - CSR
+  - ESG
+  - MENA
+  - Maghreb
+  - bibliometrics
+  - science mapping
+  - Crossref
+  - replication package

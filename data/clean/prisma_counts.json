@@ -1,0 +1,13 @@
+{
+ "records_identified": 1842000,
+ "unique_records": 176937,
+ "duplicates_removed": 1665063,
+ "excluded_out_of_period_or_no_date": 0,
+ "excluded_no_title": 488,
+ "excluded_language": 12199,
+ "screened_title_abstract": 164250,
+ "excluded_no_mena_marker": 99059,
+ "excluded_off_topic": 60919,
+ "retained_after_screening": 4272,
+ "with_abstract": 2950
+}

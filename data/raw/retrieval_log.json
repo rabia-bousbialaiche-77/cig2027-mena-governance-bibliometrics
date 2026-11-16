@@ -1,0 +1,7376 @@
+{
+ "retrieval_date_utc": "2026-11-15 12:01",
+ "filter": "from-pub-date:2000-01-01,until-pub-date:2026-12-31,type:journal-article",
+ "rows_per_query": 1000,
+ "n_queries": 1842,
+ "log": [
+  {
+   "query": "corporate governance Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Libya",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Oman",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Syria",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iran",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance MENA",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance GCC",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Arab",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate governance North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate governance North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Libya",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Oman",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Syria",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iran",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors MENA",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors GCC",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Arab",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board of directors North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "board of directors North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Libya",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Oman",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Syria",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iran",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors MENA",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors GCC",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Arab",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "board gender diversity women directors North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "board gender diversity women directors North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Libya",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Oman",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Syria",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iran",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure MENA",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure GCC",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Arab",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ownership structure North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "ownership structure North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Libya",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Oman",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Syria",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iran",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility MENA",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility GCC",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Arab",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "corporate social responsibility North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "corporate social responsibility North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Libya",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Oman",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Syria",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iran",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance MENA",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance GCC",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Arab",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "ESG environmental social governance performance North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Libya",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Oman",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Syria",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iran",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure MENA",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure GCC",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Arab",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "sustainability reporting disclosure North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "Sharia supervisory board Islamic bank governance North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Libya",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Oman",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Syria",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iran",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance MENA",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance GCC",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Arab",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "family firms governance North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "family firms governance North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Libya",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Oman",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Syria",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iran",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee MENA",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee GCC",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Arab",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "audit committee North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "audit committee North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Algeria",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Algeria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Algeria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Algeria|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Algeria|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Algeria|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Morocco",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Morocco|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Morocco|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Morocco|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Morocco|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Morocco|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Tunisia",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Tunisia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Tunisia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Tunisia|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Tunisia|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Tunisia|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Libya",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Libya|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Libya|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Libya|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Libya|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Libya|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Egypt",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Egypt|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Egypt|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Egypt|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Egypt|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Egypt|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Mauritania",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Mauritania|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Mauritania|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Mauritania|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Mauritania|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Mauritania|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Saudi Arabia|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership United Arab Emirates|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Qatar",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Qatar|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Qatar|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Qatar|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Qatar|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Qatar|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Kuwait",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Kuwait|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Kuwait|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Kuwait|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Kuwait|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Kuwait|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Bahrain",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Bahrain|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Bahrain|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Bahrain|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Bahrain|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Bahrain|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Oman",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Oman|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Oman|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Oman|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Oman|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Oman|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Jordan",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Jordan|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Jordan|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Jordan|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Jordan|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Jordan|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Lebanon",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Lebanon|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Lebanon|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Lebanon|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Lebanon|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Lebanon|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iraq",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iraq|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iraq|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iraq|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iraq|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iraq|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Syria",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Syria|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Syria|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Syria|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Syria|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Syria|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Palestine",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Palestine|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Palestine|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Palestine|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Palestine|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Palestine|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Yemen",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Yemen|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Yemen|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Yemen|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Yemen|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Yemen|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iran",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iran|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iran|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Iran|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iran|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Iran|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Turkey",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Turkey|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Turkey|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Turkey|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Turkey|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Turkey|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership MENA",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership GCC",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership GCC|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership GCC|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership GCC|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership GCC|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership GCC|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Gulf",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Gulf|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Gulf|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Gulf|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Gulf|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Gulf|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Arab",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Arab|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Arab|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Arab|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Arab|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Arab|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Middle East",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Middle East|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Middle East|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership Middle East|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Middle East|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership Middle East|5000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership North Africa",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership North Africa|1000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership North Africa|2000",
+   "n": "cached"
+  },
+  {
+   "query": "institutional investors ownership North Africa|3000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership North Africa|4000",
+   "n": 1000
+  },
+  {
+   "query": "institutional investors ownership North Africa|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Algérie|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Maroc|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Tunisie|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Liban",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Liban|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Liban|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Liban|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Liban|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Liban|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Égypte|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise Mauritanie|5000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise MENA",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "gouvernance d'entreprise MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "gouvernance d'entreprise MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Algérie|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Maroc|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Tunisie|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Liban|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Égypte|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises Mauritanie|5000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "responsabilité sociale des entreprises MENA|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Algérie",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Algérie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Algérie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Algérie|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Algérie|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Algérie|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Maroc",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Maroc|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Maroc|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Maroc|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Maroc|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Maroc|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Tunisie",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Tunisie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Tunisie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Tunisie|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Tunisie|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Tunisie|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Liban",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Liban|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Liban|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Liban|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Liban|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Liban|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Égypte",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Égypte|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Égypte|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Égypte|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Égypte|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Égypte|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Mauritanie",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Mauritanie|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Mauritanie|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration Mauritanie|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Mauritanie|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration Mauritanie|5000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration MENA",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration MENA|1000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration MENA|2000",
+   "n": "cached"
+  },
+  {
+   "query": "conseil d'administration MENA|3000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration MENA|4000",
+   "n": 1000
+  },
+  {
+   "query": "conseil d'administration MENA|5000",
+   "n": 1000
+  }
+ ]
+}

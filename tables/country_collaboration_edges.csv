@@ -1,0 +1,253 @@
+a,b,w
+Egypt,Saudi Arabia,24
+United Kingdom,Saudi Arabia,14
+Malaysia,Saudi Arabia,14
+Egypt,United Kingdom,13
+Jordan,Malaysia,13
+Jordan,Saudi Arabia,12
+Saudi Arabia,Tunisia,11
+Saudi Arabia,Yemen,9
+Malaysia,Yemen,7
+United Kingdom,Oman,7
+United Arab Emirates,Jordan,6
+United Kingdom,Malaysia,6
+Malaysia,Qatar,6
+Jordan,Kuwait,5
+Jordan,"Palestine, State of",5
+United Kingdom,Libya,5
+United Arab Emirates,Tunisia,5
+United Arab Emirates,United Kingdom,5
+Malaysia,Oman,5
+Bahrain,Saudi Arabia,5
+United Arab Emirates,Malaysia,5
+Saudi Arabia,China,5
+Egypt,United Arab Emirates,5
+United Kingdom,Jordan,5
+Malaysia,"Iran, Islamic Republic of",4
+United Arab Emirates,Saudi Arabia,4
+United Kingdom,Kuwait,4
+United Kingdom,United States,4
+New Zealand,"Iran, Islamic Republic of",4
+United States,Lebanon,4
+China,Türkiye,4
+France,Morocco,4
+United Kingdom,"Iran, Islamic Republic of",4
+Malaysia,Tunisia,4
+Jordan,Bahrain,3
+Egypt,Oman,3
+Malaysia,Bahrain,3
+Jordan,Tunisia,3
+Malaysia,India,3
+Jordan,Yemen,3
+Malaysia,"Palestine, State of",3
+United Kingdom,Bahrain,3
+Egypt,Tunisia,3
+United Kingdom,Pakistan,3
+Saudi Arabia,Pakistan,3
+Türkiye,United States,3
+Pakistan,Poland,3
+Italy,"Iran, Islamic Republic of",3
+Tunisia,Kuwait,3
+Egypt,Jordan,2
+Egypt,Germany,2
+United Kingdom,Finland,2
+Egypt,Spain,2
+Ireland,Saudi Arabia,2
+United Kingdom,Qatar,2
+Malaysia,Indonesia,2
+Jordan,Iraq,2
+Malaysia,Australia,2
+Malaysia,Pakistan,2
+United Kingdom,"Palestine, State of",2
+Saudi Arabia,United States,2
+Saudi Arabia,Australia,2
+Saudi Arabia,Türkiye,2
+Saudi Arabia,Oman,2
+United States,Canada,2
+United States,Kuwait,2
+Türkiye,Kyrgyzstan,2
+Türkiye,Lebanon,2
+"Iran, Islamic Republic of",Kuwait,2
+"Iran, Islamic Republic of",Poland,2
+Türkiye,Iraq,2
+Saudi Arabia,Qatar,2
+Oman,Pakistan,2
+France,Tunisia,2
+Oman,Poland,2
+India,Oman,2
+Australia,Türkiye,2
+New Zealand,Kuwait,2
+Australia,Oman,2
+Saudi Arabia,India,2
+United Arab Emirates,Australia,2
+Egypt,Morocco,1
+Egypt,France,1
+Egypt,Australia,1
+Jordan,Ireland,1
+United Kingdom,New Zealand,1
+United Kingdom,Sweden,1
+United Kingdom,Türkiye,1
+United Kingdom,Bangladesh,1
+United Kingdom,China,1
+United Kingdom,Spain,1
+United Kingdom,Italy,1
+United Kingdom,Switzerland,1
+United Kingdom,South Africa,1
+United Kingdom,France,1
+United Kingdom,Slovenia,1
+United Kingdom,Morocco,1
+United Kingdom,Austria,1
+United Kingdom,Azerbaijan,1
+United Kingdom,Mexico,1
+United Kingdom,Poland,1
+United Arab Emirates,Switzerland,1
+United Arab Emirates,France,1
+United Arab Emirates,South Africa,1
+United Kingdom,Indonesia,1
+United Arab Emirates,Bahrain,1
+United Arab Emirates,Oman,1
+United Kingdom,Greece,1
+United Arab Emirates,Finland,1
+United Arab Emirates,Lebanon,1
+United Arab Emirates,Qatar,1
+Egypt,Kuwait,1
+Egypt,China,1
+Egypt,Malaysia,1
+Egypt,Finland,1
+Egypt,Sweden,1
+United Arab Emirates,Iraq,1
+United Arab Emirates,India,1
+Egypt,Japan,1
+United Arab Emirates,Greece,1
+Egypt,Türkiye,1
+Egypt,Qatar,1
+Egypt,Azerbaijan,1
+Egypt,Libya,1
+Bahrain,China,1
+Bahrain,Indonesia,1
+Bahrain,Türkiye,1
+Bahrain,Lebanon,1
+Bahrain,India,1
+Bahrain,Oman,1
+"Palestine, State of",Türkiye,1
+Bahrain,Ireland,1
+"Palestine, State of",Bahrain,1
+"Palestine, State of","Iran, Islamic Republic of",1
+"Palestine, State of",Kuwait,1
+"Palestine, State of",Saudi Arabia,1
+"Palestine, State of",Pakistan,1
+"Palestine, State of",Oman,1
+"Palestine, State of",New Zealand,1
+"Palestine, State of",Tunisia,1
+Malaysia,Ecuador,1
+Malaysia,Sudan,1
+"Palestine, State of",Australia,1
+Malaysia,Nigeria,1
+Malaysia,Kuwait,1
+Malaysia,Canada,1
+United Kingdom,Australia,1
+Jordan,Azerbaijan,1
+Jordan,France,1
+Jordan,India,1
+Jordan,Australia,1
+Jordan,Algeria,1
+Jordan,Viet Nam,1
+Jordan,Canada,1
+Jordan,Morocco,1
+Jordan,United States,1
+New Zealand,India,1
+Australia,Qatar,1
+Australia,"Iran, Islamic Republic of",1
+Australia,Canada,1
+Saudi Arabia,Kuwait,1
+Saudi Arabia,Hong Kong,1
+Saudi Arabia,Nigeria,1
+India,Yemen,1
+India,Finland,1
+India,Türkiye,1
+India,"Iran, Islamic Republic of",1
+India,Qatar,1
+Oman,Lebanon,1
+New Zealand,Türkiye,1
+India,Kuwait,1
+India,Slovenia,1
+China,Ghana,1
+Oman,United States,1
+Oman,Qatar,1
+China,United States,1
+China,Lithuania,1
+Saudi Arabia,Spain,1
+Saudi Arabia,Sudan,1
+Saudi Arabia,Lebanon,1
+Australia,New Zealand,1
+Saudi Arabia,Morocco,1
+Saudi Arabia,Mexico,1
+Saudi Arabia,Algeria,1
+Saudi Arabia,Iraq,1
+Saudi Arabia,France,1
+Saudi Arabia,Libya,1
+Saudi Arabia,Poland,1
+Tunisia,Uzbekistan,1
+Tunisia,South Africa,1
+Tunisia,"Korea, Republic of",1
+Tunisia,Qatar,1
+France,Germany,1
+France,Spain,1
+France,Switzerland,1
+France,South Africa,1
+China,Kuwait,1
+France,Finland,1
+France,Sweden,1
+Türkiye,Italy,1
+Türkiye,Romania,1
+Türkiye,Poland,1
+Türkiye,"Korea, Republic of",1
+Türkiye,Kuwait,1
+Indonesia,United States,1
+Libya,Canada,1
+Türkiye,Lithuania,1
+Türkiye,Kazakhstan,1
+United States,Belgium,1
+United States,Brazil,1
+United States,Pakistan,1
+United States,"Iran, Islamic Republic of",1
+United States,"Korea, Republic of",1
+United States,Germany,1
+Qatar,Armenia,1
+Qatar,Sri Lanka,1
+Qatar,Finland,1
+Türkiye,Bulgaria,1
+Tunisia,Spain,1
+Tunisia,Iraq,1
+Canada,Italy,1
+Pakistan,Morocco,1
+Pakistan,Iraq,1
+Canada,"Iran, Islamic Republic of",1
+Canada,Morocco,1
+Canada,Lebanon,1
+"Iran, Islamic Republic of",Russian Federation,1
+"Iran, Islamic Republic of",Sweden,1
+"Iran, Islamic Republic of",Romania,1
+Poland,Israel,1
+Poland,Ukraine,1
+Azerbaijan,Kuwait,1
+Kuwait,Slovenia,1
+Kuwait,Lebanon,1
+Iraq,Cyprus,1
+Slovenia,Austria,1
+"Korea, Republic of",South Africa,1
+"Korea, Republic of",Uzbekistan,1
+"Korea, Republic of",Belgium,1
+"Korea, Republic of",Brazil,1
+"Korea, Republic of",Germany,1
+South Africa,Uzbekistan,1
+South Africa,Finland,1
+South Africa,Switzerland,1
+Yemen,Sudan,1
+Belgium,Brazil,1
+Belgium,Germany,1
+Brazil,Germany,1
+Germany,Spain,1
+Estonia,Peru,1
+Sweden,Finland,1
+Finland,Switzerland,1

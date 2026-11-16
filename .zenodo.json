@@ -1,0 +1,16 @@
+{
+  "title": "Dossier de réplication – Gouvernance d'entreprise et durabilité dans la région MENA : cartographie bibliométrique, dynamiques thématiques et agenda de recherche (2000–2026)",
+  "upload_type": "dataset",
+  "description": "<p>Code Python, données brutes et données nettoyées produisant tous les chiffres, tableaux et figures de la communication présentée à la 26e Conférence internationale de gouvernance (CIG 2027, Université d'Orléans). Extraction de l'API publique Crossref le 15 novembre 2026 : 307 requêtes, 1 842 000 enregistrements, 176 937 notices uniques, 4 272 articles retenus après un filtrage de type PRISMA (règles R1–R4), vingt pays de la région MENA, 2000–2026. Analyses : performance, lois de Bradford et de Lotka, thésaurus de 69 concepts, co-occurrence, couplage bibliographique, co-citation et diagrammes stratégiques de Callon.</p><p>Les résumés déposés dans Crossref appartiennent à leurs éditeurs et ne sont pas redistribués ; le script 00_restore_abstracts.py les récupère à nouveau. Une fiche descriptive d'une page (PDF) accompagne le dossier.</p>",
+  "creators": [
+    {
+      "name": "Bousbia Laiche, Rabia",
+      "affiliation": "Université d'El Oued (Echahid Hamma Lakhdar), Algérie",
+      "orcid": "0000-0002-0150-4310"
+    }
+  ],
+  "keywords": ["corporate governance", "sustainability", "CSR", "ESG", "MENA", "Maghreb", "bibliometrics", "science mapping", "Crossref", "replication package"],
+  "license": "cc-by-4.0",
+  "language": "fra",
+  "version": "1.0.0"
+}
